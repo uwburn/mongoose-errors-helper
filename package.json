@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-helper",
+  "name": "mongoose-errors-helper",
   "version": "1.0.0",
   "main": "mongooseHelper.js",
   "description": "A utility module to deal with Mongoose in web APIs development",
@@ -9,7 +9,7 @@
   },
   "repository" : {
 	"type" : "git",
-    	"url" : "https://github.com/uwburn/mongoose-helper.git"
+    	"url" : "https://github.com/uwburn/mongoose-errors-helper.git"
   },
   "license": "LGPL-3.0"
 }
